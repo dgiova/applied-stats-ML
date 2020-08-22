@@ -2,7 +2,7 @@
 Nothing is more satisfying than challenging your stats and ML knowledge with some fun coding examples.
 Here, you can find easy-to-read Python code that demonstrates the power and beauty of several stats and ML concepts!
 
-You can run the notebooks by clicking on colab. It will open a Google Colaboratory notebook where you can edit and play around with the code. **Easy!**
+You can run the notebooks by clicking on colab. It will open a Google Colaboratory notebook where you can edit and play around with the code. **Have fun!**
 
 # Notebooks
 |Run|Year|Topic|
