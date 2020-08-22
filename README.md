@@ -5,7 +5,7 @@ Here, you can find easy-to-read Python code that demonstrates the power and beau
 You can run the notebooks by clicking on colab. It'll open a Google Colaboratory notebook. **Easy!**
 
 # Notebooks
-|Run|Year|Programming Examples|
+|Run|Year|Topic|
 |---|----|---|
 | [colab](https://colab.research.google.com/github/dgiova/applied-stats-ML/ipynb/blob/master/gaussian_modeling.ipynb) | 2020 | <b><a href="gaussian_modeling.ipynb" title="">Gaussian Modeling</a></b> |
 | [colab](https://colab.research.google.com/github/dgiova/applied-stats-ML/ipynb/blob/master/generating_RVs.ipynb) | 2020 | <b><a href="generating_RVs.ipynb" title="">Generating Random Variables</a></b> |
